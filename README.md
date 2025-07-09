@@ -52,7 +52,7 @@ This project can be extended for:
 ├── .env                                   # API Key (not included)
 ├── requirements.txt                       # Required Python packages
 
-<br/>
+---
 
 🚀 How to Run
 1. Clone this repo
