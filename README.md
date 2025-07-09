@@ -52,16 +52,19 @@ This project can be extended for:
 ├── .env                                   # API Key (not included)
 ├── requirements.txt                       # Required Python packages
 
+<br/>
 
 🚀 How to Run
 1. Clone this repo
+```python
 git clone https://github.com/yourusername/ai-interview-agent.git
 cd ai-interview-agent
-
+```
 
 2. Install dependencies
+```python
 pip install -r requirements.txt
-
+```
 
 3. Set your OpenAI API key
 Create a .env file with the following format:
@@ -71,4 +74,6 @@ OPENAI_API_KEY=your_api_key_here
 4. Run the Gradio App
 You can either open AI Interview Agent_with_Gradio.ipynb and run all cells in Jupyter,
 or convert it to a .py script and launch:
+```python
 python app.py
+```
