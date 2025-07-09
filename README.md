@@ -43,16 +43,7 @@ This project can be extended for:
 
 ---
 
-## 📂 File Structure
 
-```bash
-.
-├── AI Interview Agent_with_Gradio.ipynb   # Gradio UI implementation
-├── AI Interview Agent_v2_0.ipynb          # Core logic and LLM interaction
-├── .env                                   # API Key (not included)
-├── requirements.txt                       # Required Python packages
-
----
 
 🚀 How to Run
 1. Clone this repo
