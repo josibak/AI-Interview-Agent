@@ -59,10 +59,11 @@ pip install -r requirements.txt
 
 3. Set your OpenAI API key
 Create a .env file with the following format:
+```python
 OPENAI_API_KEY=your_api_key_here
+```
 
-
-4. Run the Gradio App
+5. Run the Gradio App
 You can either open AI Interview Agent_with_Gradio.ipynb and run all cells in Jupyter,
 or convert it to a .py script and launch:
 ```python
